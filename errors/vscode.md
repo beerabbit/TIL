@@ -4,3 +4,5 @@
 
 이런 에러가 났다.. 원인으로는 내가 docker용으로 만든 wsl에 연결해서 그랬고, ubuntu20.04를 설치후 그 가상머신에 연결하니 깔-끔하게 연결 성공
 ![image](https://user-images.githubusercontent.com/57741072/119254406-13e1a700-bbf1-11eb-8ea7-2525c8540b85.png)
+
+wsl -s Ubuntu-20.04 을 이용해서 기본 사용 wsl도 바꿔주자.. 아니면 계속 도커에서 작업하더라
